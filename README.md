@@ -3,4 +3,7 @@ Learning git and github properly. this repo can be cloned,forked or any student 
 
 This is second change i am doing in this README file from browser/github 
 
+
 This is third change from local machine on top of second change.
+=======
+This is third change from Github UI and my parent is second change.
